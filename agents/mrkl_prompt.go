@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tmc/langchaingo/prompts"
-	"github.com/tmc/langchaingo/tools"
+	"github.com/silverfox07/langchaingo/prompts"
+	"github.com/silverfox07/langchaingo/tools"
 )
 
 const (

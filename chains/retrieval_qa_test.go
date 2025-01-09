@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/silverfox07/langchaingo/llms/openai"
+	"github.com/silverfox07/langchaingo/prompts"
+	"github.com/silverfox07/langchaingo/schema"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/prompts"
-	"github.com/tmc/langchaingo/schema"
 )
 
 type testRetriever struct{}

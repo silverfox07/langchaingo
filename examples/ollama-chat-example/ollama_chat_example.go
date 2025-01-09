@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/ollama"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/llms/ollama"
 )
 
 func main() {

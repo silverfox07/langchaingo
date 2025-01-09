@@ -5,9 +5,9 @@ import (
 
 	"github.com/getzep/zep-go"
 	zepClient "github.com/getzep/zep-go/client"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/memory"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/memory"
+	"github.com/silverfox07/langchaingo/schema"
 )
 
 // Memory is a simple form of memory that remembers previous conversational back and forth directly.

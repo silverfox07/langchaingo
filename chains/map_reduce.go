@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/tmc/langchaingo/memory"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/memory"
+	"github.com/silverfox07/langchaingo/schema"
 	"golang.org/x/exp/maps"
 )
 

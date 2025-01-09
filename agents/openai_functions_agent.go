@@ -5,11 +5,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/tmc/langchaingo/callbacks"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/prompts"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/tools"
+	"github.com/silverfox07/langchaingo/callbacks"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/prompts"
+	"github.com/silverfox07/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/tools"
 )
 
 // agentScratchpad "agent_scratchpad" for the agent to put its thoughts in.

@@ -3,12 +3,12 @@ package chains
 import (
 	"context"
 
-	"github.com/tmc/langchaingo/callbacks"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/memory"
-	"github.com/tmc/langchaingo/outputparser"
-	"github.com/tmc/langchaingo/prompts"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/callbacks"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/memory"
+	"github.com/silverfox07/langchaingo/outputparser"
+	"github.com/silverfox07/langchaingo/prompts"
+	"github.com/silverfox07/langchaingo/schema"
 )
 
 const _llmChainDefaultOutputKey = "text"

@@ -1,8 +1,8 @@
 package chains
 
 import (
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/prompts"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/prompts"
 )
 
 //nolint:lll

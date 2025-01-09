@@ -7,10 +7,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/memory"
-	"github.com/tmc/langchaingo/prompts"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/memory"
+	"github.com/silverfox07/langchaingo/prompts"
+	"github.com/silverfox07/langchaingo/schema"
 	"go.starlark.net/lib/math"
 	"go.starlark.net/starlark"
 )

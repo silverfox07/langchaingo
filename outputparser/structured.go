@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/llms"
+	"github.com/silverfox07/langchaingo/schema"
 )
 
 // ParseError is the error type returned by output parsers.

@@ -7,13 +7,13 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
+	"github.com/silverfox07/langchaingo/chains"
+	"github.com/silverfox07/langchaingo/embeddings"
+	"github.com/silverfox07/langchaingo/llms/openai"
+	"github.com/silverfox07/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/vectorstores"
+	"github.com/silverfox07/langchaingo/vectorstores/pinecone"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/chains"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/vectorstores"
-	"github.com/tmc/langchaingo/vectorstores/pinecone"
 )
 
 func getValues(t *testing.T) (string, string) {

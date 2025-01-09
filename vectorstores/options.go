@@ -3,8 +3,8 @@ package vectorstores
 import (
 	"context"
 
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/embeddings"
+	"github.com/silverfox07/langchaingo/schema"
 )
 
 // Option is a function that configures an Options.

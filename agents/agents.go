@@ -3,8 +3,8 @@ package agents
 import (
 	"context"
 
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/tools"
+	"github.com/silverfox07/langchaingo/schema"
+	"github.com/silverfox07/langchaingo/tools"
 )
 
 // Agent is the interface all agents must implement.
